@@ -10,6 +10,9 @@ import project03Big from "./../img/projects/ul-big.jpg";
 import project04 from "./../img/projects/xo.jpg";
 import project04Big from "./../img/projects/xo-big.jpg";
 
+import project05 from "./../img/projects/sneakers.jpg";
+import project05Big from "./../img/projects/sneakers.jpg";
+
 const projects = [
   {
     id: 1,
@@ -43,6 +46,14 @@ const projects = [
     img: project04,
     imgBig: project04Big,
     gitHubLink: "https://github.com/SandraSor/XO-my-app",
+  },
+  {
+    id: 5,
+    skills: "Skills: HTML, CSS, React",
+    title: "Sneakers",
+    img: project05,
+    imgBig: project05Big,
+    gitHubLink: "https://github.com/SandraSor/",
   },
 ];
 

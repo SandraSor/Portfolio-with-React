@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Portfolio-with-React/static/css/main.12b1b213.css",
+    "main.js": "/Portfolio-with-React/static/js/main.daffd626.js",
+    "static/media/cv.pdf": "/Portfolio-with-React/static/media/cv.6ec82d9c6f645775d0cc.pdf",
+    "static/media/sneakers-big.jpg": "/Portfolio-with-React/static/media/sneakers-big.5f97aa6ccd377cd8670b.jpg",
+    "static/media/sneakers1.jpg": "/Portfolio-with-React/static/media/sneakers1.78c6438351e7aa4c7309.jpg",
+    "static/media/ul-big.jpg": "/Portfolio-with-React/static/media/ul-big.5cd69a9481be0711c28d.jpg",
+    "static/media/quiz-big.jpg": "/Portfolio-with-React/static/media/quiz-big.fd33203d66eceac3914d.jpg",
+    "static/media/ul.jpg": "/Portfolio-with-React/static/media/ul.64f34346459f2a9da9dd.jpg",
+    "static/media/counter-big.jpg": "/Portfolio-with-React/static/media/counter-big.564de60b0971516af256.jpg",
+    "static/media/header-bg.png": "/Portfolio-with-React/static/media/header-bg.f0fc7e892da25b80de2d.png",
+    "static/media/xo-big.jpg": "/Portfolio-with-React/static/media/xo-big.96c3b084587319325b4c.jpg",
+    "static/media/xo.jpg": "/Portfolio-with-React/static/media/xo.096905adf574768151de.jpg",
+    "static/media/sun.svg": "/Portfolio-with-React/static/media/sun.51393a375a81e44f27f1e33d713ca0ae.svg",
+    "static/media/moon.svg": "/Portfolio-with-React/static/media/moon.a84eb240a8739f0ef02594df4c131706.svg",
+    "static/media/gitHub.svg": "/Portfolio-with-React/static/media/gitHub.b87f19ef973c6100f9c38a26a13ddf8a.svg",
+    "static/media/gitHub-black.svg": "/Portfolio-with-React/static/media/gitHub-black.61157a57f0853aa9fd2f3622b730cdfc.svg",
+    "static/media/instagram.svg": "/Portfolio-with-React/static/media/instagram.8d653aa289bf741643bec37b4736f63c.svg",
+    "static/media/vk.svg": "/Portfolio-with-React/static/media/vk.f9658cd0a86201af97f2618dee6f533b.svg",
+    "static/media/twitter.svg": "/Portfolio-with-React/static/media/twitter.0ef3190f338f1eba216275f576656f54.svg",
+    "static/media/linkedIn.svg": "/Portfolio-with-React/static/media/linkedIn.1b4c89f90816b71fcef42894bddadd65.svg",
+    "index.html": "/Portfolio-with-React/index.html",
+    "main.12b1b213.css.map": "/Portfolio-with-React/static/css/main.12b1b213.css.map",
+    "main.daffd626.js.map": "/Portfolio-with-React/static/js/main.daffd626.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12b1b213.css",
+    "static/js/main.daffd626.js"
+  ]
+}

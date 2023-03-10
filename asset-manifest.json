@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio-with-React/static/css/main.12b1b213.css",
-    "main.js": "/Portfolio-with-React/static/js/main.daffd626.js",
+    "main.css": "/Portfolio-with-React/static/css/main.26ac09eb.css",
+    "main.js": "/Portfolio-with-React/static/js/main.a990bb1b.js",
     "static/media/cv.pdf": "/Portfolio-with-React/static/media/cv.6ec82d9c6f645775d0cc.pdf",
     "static/media/sneakers-big.jpg": "/Portfolio-with-React/static/media/sneakers-big.5f97aa6ccd377cd8670b.jpg",
     "static/media/sneakers1.jpg": "/Portfolio-with-React/static/media/sneakers1.78c6438351e7aa4c7309.jpg",
@@ -21,11 +21,11 @@
     "static/media/twitter.svg": "/Portfolio-with-React/static/media/twitter.0ef3190f338f1eba216275f576656f54.svg",
     "static/media/linkedIn.svg": "/Portfolio-with-React/static/media/linkedIn.1b4c89f90816b71fcef42894bddadd65.svg",
     "index.html": "/Portfolio-with-React/index.html",
-    "main.12b1b213.css.map": "/Portfolio-with-React/static/css/main.12b1b213.css.map",
-    "main.daffd626.js.map": "/Portfolio-with-React/static/js/main.daffd626.js.map"
+    "main.26ac09eb.css.map": "/Portfolio-with-React/static/css/main.26ac09eb.css.map",
+    "main.a990bb1b.js.map": "/Portfolio-with-React/static/js/main.a990bb1b.js.map"
   },
   "entrypoints": [
-    "static/css/main.12b1b213.css",
-    "static/js/main.daffd626.js"
+    "static/css/main.26ac09eb.css",
+    "static/js/main.a990bb1b.js"
   ]
 }

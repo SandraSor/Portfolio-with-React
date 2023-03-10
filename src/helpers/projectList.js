@@ -16,44 +16,45 @@ import project05Big from './../img/projects/sneakers-big.jpg';
 const projects = [
 	{
 		id: 1,
-		title: 'Counter',
-		skills: 'Skills: HTML, CSS, React',
+		title: 'Pizzas',
+		skills:
+			'React, Redux Toolkit, React Router v6, Axios, TypeScript, SCSS, React Content Loader, React Pagination, Lodash.Debounce, JSON-server',
 		img: project01,
 		imgBig: project01Big,
-		gitHubLink: 'https://github.com/SandraSor/Counter_react',
+		gitHubLink: 'https://github.com/SandraSor/pizza-react',
 	},
 	{
 		id: 2,
-		title: 'Quiz',
-		skills: 'Skills: HTML, CSS, React',
-		img: project02,
-		imgBig: project02Big,
-		gitHubLink: 'https://github.com/SandraSor/Quiz_react',
+		skills: 'ReactJS, React Router, Axios, SCSS, JSON-server',
+		title: 'Sneakers',
+		img: project05,
+		imgBig: project05Big,
+		gitHubLink: 'https://github.com/SandraSor/sneakers-react',
 	},
 	{
 		id: 3,
-		title: 'User List',
-		skills: 'Skills: HTML, CSS, React',
-
-		img: project03,
-		imgBig: project03Big,
-		gitHubLink: 'https://github.com/SandraSor/UserList_react',
-	},
-	{
-		id: 4,
-		skills: 'Skills: HTML, CSS, React',
+		skills: 'HTML, CSS, React',
 		title: 'Tic-Tac-Toe',
 		img: project04,
 		imgBig: project04Big,
 		gitHubLink: 'https://github.com/SandraSor/XO-my-app',
 	},
 	{
+		id: 4,
+		title: 'User List',
+		skills: 'HTML, CSS, React, React Content Loader, fetch',
+
+		img: project03,
+		imgBig: project03Big,
+		gitHubLink: 'https://github.com/SandraSor/UserList_react',
+	},
+	{
 		id: 5,
-		skills: 'Skills: HTML, CSS, React',
-		title: 'Sneakers',
-		img: project05,
-		imgBig: project05Big,
-		gitHubLink: 'https://github.com/SandraSor/sneakers-react',
+		title: 'Quiz',
+		skills: 'HTML, CSS, React',
+		img: project02,
+		imgBig: project02Big,
+		gitHubLink: 'https://github.com/SandraSor/Quiz_react',
 	},
 ];
 
